@@ -18,6 +18,7 @@
 <br>
 
 ## 프로젝트 개발 결과물 소개 (+ 다이어그램)
+![image](https://user-images.githubusercontent.com/84326090/144722787-7d046f03-4ffa-4565-ad4a-a7853b05cb67.png)
 
 <br>
 
