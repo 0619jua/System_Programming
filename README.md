@@ -24,7 +24,13 @@
 <br>
 
 ## 개발 결과물을 사용하는 방법 소개 (+ 프로그램 구동 화면 스크린 샷 첨부)
++ 소켓 프로그래밍
 ![chat_simulation](https://user-images.githubusercontent.com/84326090/144731934-181fc387-a50f-4a03-88bb-715267f562cd.PNG)
+
++ 행맨 게임
+![image](https://user-images.githubusercontent.com/84326090/144751158-b3726aea-9bcc-43dc-8306-069f18cb217d.png)
+
+![image](https://user-images.githubusercontent.com/84326090/144751183-edd4d2cf-f882-41f3-8368-9212a0158478.png)
 
 
 <br>
