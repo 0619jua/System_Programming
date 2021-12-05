@@ -24,6 +24,7 @@
 <br>
 
 ## 개발 결과물을 사용하는 방법 소개 (+ 프로그램 구동 화면 스크린 샷 첨부)
+![chat simulation](https://user-images.githubusercontent.com/84326090/144731794-1d17ce5a-5539-4211-8916-2da4a45bb932.PNG)
 
 <br>
 
